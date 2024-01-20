@@ -82,6 +82,8 @@ npm install -g newman-reporter-htmlextra
 	14. > Mobile
 
 ## Newman Report Summary:
-![Newman Report Summary](screencapture-file-C-Users-HP-Downloads-Student-Details-API-Testing-2024-01-16-04-48-24-129-0-html-2024-01-16-11_04_23-1.png)
+![Newman Report Summary](https://github.com/momtazshanta/API-Testing-Project/assets/41441256/caf40bca-a946-4930-92fb-4c005d3e0b12)
 
-![Newman Report Summary](screencapture-file-C-Users-HP-Downloads-Student-Details-API-Testing-2024-01-16-04-48-24-129-0-html-2024-01-16-11_05_15-1.png)
+
+![Newman Report Summary](https://github.com/momtazshanta/API-Testing-Project/assets/41441256/a83e7dfe-d829-4e12-be5f-8b77b90a5047)
+
